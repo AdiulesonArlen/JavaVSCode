@@ -11,15 +11,23 @@ public class TiposDeDadosEm {
         double pi = 3.1484941648431184131518;
 
         //Variáveis do tipo Caractere:
-        char letraOuSimbolo = '+';
+        char letraOuSimbolo = '!';
 
         //Variáveis do tipo Booleano:
-        boolean estouFaminto = false;
+        boolean estouFaminto = true;
 
         //Variáveis do tipo String:
         String texto = "Olá Mundo!";
 
         System.out.println(texto);
+        System.out.println(estouFaminto);
+        System.out.println(letraOuSimbolo);
+        System.out.println(pi);
+        System.out.println(peso);
+        System.out.println(numeroEnorme);
+        System.out.println(numeroMaior);
+        System.out.println(numeroShort);
+        System.out.println(numeroPequeno);
         
 
     }
