@@ -10,7 +10,7 @@ public class TiposDeDadosEm {
         float peso = 78.7f;
         double pi = 3.1484941648431184131518;
 
-        //Variáveis do tipo Caractere:
+        //Variáveis do tipo Caractere:  
         char letraOuSimbolo = '!';
 
         //Variáveis do tipo Booleano:
